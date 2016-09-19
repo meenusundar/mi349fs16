@@ -32,6 +32,21 @@ h1 {
     font-family:"Big Caslon" serif;
 
 }
+h1 {
+    font-size: 50px;
+    font-family:"Big Caslon" serif;
+
+}
+
+
+#rectangle{
+    width:400px;
+    height:10px;
+    margin : 0 auto;
+    background:#ffe0b5;
+}
+
+
 
 /* Remove margins and padding from the list, and add a black background color */
 ul.topnav {
