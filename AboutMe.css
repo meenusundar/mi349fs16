@@ -19,6 +19,10 @@
   min-width: 50%;
   min-height: 50%;
 }*/
+.scrollbar {
+  height: 100px;
+  overflow: auto; // here is the magic :)
+}
 body {
     /*background-image: url("background.jpg");
     background-repeat: no-repeat;
