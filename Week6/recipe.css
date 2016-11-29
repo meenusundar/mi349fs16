@@ -1,0 +1,36 @@
+#recipe1 {
+  width: 33%;
+  border-radius: 5px;
+  border: 7px solid #ffe0b5;
+  background-color: #a4af69;
+  box-shadow: 10px 10px 5px #888888;
+
+ }
+
+ #recipe2 {
+   width: 33%;
+   border-radius: 5px;
+   border: 7px solid #ffe0b5;
+   background-color: #a4af69;
+   box-shadow: 10px 10px 5px #888888;
+   background: linear-gradient(45deg, #a4af69, #ffe0b5);
+
+
+
+  }
+
+ #recipe3 {
+    width: 34%;
+    border-radius: 5px;
+    border: 7px solid #ffe0b5;
+    background-color: #a4af69;
+    box-shadow: 10px 10px 5px #888888;
+  }
+h1, h2, h5{
+  font-family: "century gothic";
+  color: #d35269;
+}
+#vitals
+{
+
+}
