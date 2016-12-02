@@ -1,0 +1,62 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+body {
+  /* #ccc is shorthand HEX for a light grey */
+  background: #ccc;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 30px;
+  font-size: 70px;
+  text-align: center;
+  font-family: "century gothic";
+  color:pink;
+}
+
+p {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 25px;
+  max-width: 800px;
+  color: black;
+  font-family: "century gothic";
+  margin: 0 auto;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  font-family: "century gothic";
+  padding: 0;
+  overflow: hidden;
+  background-color: grey;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: pink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: "century gothic";
+
+}
+
+
+.body {
+  background: grey;
+}
+
+#home {
+  color: blue;
+}
+
+#about {
+  color: blue;
+}
