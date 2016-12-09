@@ -223,11 +223,6 @@ hr {
   text-align: center;
   font-family: "century gothic";
 }
-div.a{
-  position:fixed;
-  animation-name: bird;
-  animation-duration: 2s;
-}
 
 /* Remove margins and padding from the list, and add a black background color */
 ul.topnav {
@@ -286,8 +281,4 @@ ul.topnav li.icon {display: none;}
     display: block;
     text-align: right;
   }
-}
-#animation{
-    -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
-    animation-duration: 2s;
 }
